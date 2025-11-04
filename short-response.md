@@ -1,0 +1,3 @@
+# Short Response Questions
+## Question 1
+If I am collaborating with a classmate the first thing that each team member needs to do is to create their own branch and enter it to do some work. Then, each team member would need to **save their work** and also **set an upstream for their work**. It is also important to do this step because it is required in order to perform a pull request and this can also be used in order to save your work and merge if you are not done with the branch.
