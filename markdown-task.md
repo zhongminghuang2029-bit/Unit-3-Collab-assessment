@@ -9,10 +9,8 @@ Our mission is to:
 - Promote sustainable forestry.
 - Encourage reforestation projects.
 
-```
-"The best time to plant a tree was 20 years ago. The second best time is now."
-```
->-*Chinese Proverb*
+>"The best time to plant a tree was 20 years ago. The second best time is now."
+-*Chinese Proverb*
 
 
 ---
