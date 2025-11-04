@@ -9,3 +9,9 @@ Developers use branches in order to to experiment by using a experimental branch
 Git is a distributed version control system. Every single developer has access to the changes and this is also what developers use in order to have a snapshot of what the code looks like. Github is the cloud based service that allows developers to store, track, and manage their code. Git and Github work together by making changes in the code and those changes are stored in Github.
 
 ## Question 4
+The thing that is wrong with the following command sequence is that `git add .` is supposed to be swapped with `git commit -m "saving work"`. The correct command sequence would be:
+
+```
+git add .
+git commit -m "saving work"
+git push
